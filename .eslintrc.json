@@ -1,0 +1,7 @@
+{
+    "extends": ["@rocketseer/eslint-config/react"],
+    "plugins": ["simple-import-sort"],
+    "rules": {
+        "simple-import-sort/ixports": "error"
+    }
+}
